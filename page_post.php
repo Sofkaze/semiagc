@@ -1,8 +1,8 @@
 <?php 
 	require_once('Config/Database.php');
-	require_once(__ROOT__.'/header.php');
-	require_once(__ROOT__.'/navbar.php'); 
-	require_once(__ROOT__.'/sidebar.php'); ?>
+	require_once('header.php');
+	require_once('navbar.php'); 
+	require_once('sidebar.php'); ?>
 <!-- CONTENT HERE -->
 
 	<?php 
@@ -169,4 +169,4 @@
 </div>
 <!-- END OF CONTENT HERE -->
 <?php
-	require_once(__ROOT__.'/footer.php'); ?>
+	require_once('footer.php'); ?>

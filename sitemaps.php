@@ -1,6 +1,6 @@
 <?php 
 	require_once('Config/Database.php');
-	require_once(__ROOT__.'/header.php'); ?>
+	require_once('header.php'); ?>
 <!-- CONTENT HERE -->
 	<br />
 	<div class="container">
